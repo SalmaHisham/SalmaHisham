@@ -16,7 +16,9 @@
 - 📫 How to reach me :    
 <p align="center">
 <a href="mailto:salma.hishaam@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> </a>
-    <a href="https://www.linkedin.com/in/salmahisham/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/salmahisham/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://codeforces.com/profile/Salma_Hisham" title="CodeForces"><img src="https://img.shields.io/badge/Codeforces-%23F7931E.svg?style=for-the-badge&logo=CodeForces&logoColor=white"/></a>
+      <a href="https://www.kaggle.com/salmahisham" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-035a7d.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 <br>
