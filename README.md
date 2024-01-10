@@ -1,24 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Salma Hisham</h1>
-<h3 align="center">Machine Learning Enthusiast </h3>
+<h3 align="center">Data Scientist Enthusiast </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <br>
 <br>
 
-- 🏫 I am a `Computer and Information Science` graduate, with a postgraduate `ITI Diploma` in `Artificial Intelligence and Machine Learning Engineering`.
-- 🌱 I’m currently learning `AWS services` and `Data science`
+- 🏫 `1+ year experienced freelance data scientist` with an ITI diploma and solid academicc record, currently pursuing my master's degree in `informatics` at Nile University.
 
-- 🤔 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Jr5Jn3UeEyJbdJmZs2lYcrzMXbRZIJ_G/view).
+- 🤓 [RESUME](https://drive.google.com/file/d/1fBNYgKZwSoYYinAS5XxeXdFjMijwqHSj/view?usp=sharing).
 
-- 🤓 Doing my best 
 - 📫 How to reach me :    
+
 <p align="center">
 <a href="mailto:salma.hishaam@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> </a>
     <a href="https://www.linkedin.com/in/salmahisham/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.upwork.com/freelancers/~01393a6446f9ce2d71" title="Upwork"><img src="https://img.shields.io/badge/upwork-039100.svg?style=for-the-badge&logo=upwork&logoColor=white"/></a>
      <a href="https://codeforces.com/profile/Salma_Hisham" title="CodeForces"><img src="https://img.shields.io/badge/Codeforces-%23F7931E.svg?style=for-the-badge&logo=CodeForces&logoColor=white"/></a>
-      <a href="https://www.kaggle.com/salmahisham" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-035a7d.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 <br>
