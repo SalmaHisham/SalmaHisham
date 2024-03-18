@@ -1,13 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Salma Hisham</h1>
-<h3 align="center">Data Scientist Enthusiast </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <br>
 <br>
 
-- 🏫 `1+ year experienced freelance data scientist` with an ITI diploma and solid academicc record, currently pursuing my master's degree in `informatics` at Nile University.
+- 🏫 `Data scientist` with a strong academic record, I am currently pursuing a Master’s degree in `Informatics` at Nile University.
 
 - 🤓 [RESUME](https://drive.google.com/file/d/1fBNYgKZwSoYYinAS5XxeXdFjMijwqHSj/view?usp=sharing).
 
